@@ -25,8 +25,8 @@ Nos permite trabajar en equipo sobre el mismo proyecto pero en distintas partes 
 * [git status]: ver el estado de los archivos;
 * [git remote add origin "enlace Git"] permite agregar un repositorio a nuestro workspace;
 * [git remote -v] nos muestra el estado del git remoto;
-* [git pull] empareja el remoto con el local;
-* [git checkout -- .] restaura el ultimo commit;
+* [git pull] empareja el    remoto con el local;
+* [git checkout -- .] restaura el ultim o commit;
 * [git remote add origin "enlace"] agregar repositorio;
 * [git branch m- "rama"] nos permite ubicar lo que queremos subir en determinada rama; (chequear esto)* 
 * [rm -rf ."nombre"] desvincular branch.
