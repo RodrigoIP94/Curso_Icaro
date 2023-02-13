@@ -10,5 +10,5 @@ console.log("Esta es la operacion de resta 12 - 2 = ", restar(12, 2));
 
 console.log("esta es la operacion de multiplicación 5 * 3 = ", multiplicar(5, 3));
 
-console.log("Esta es la operación de división 15 / 3 = ", dividir(15, 3));
+console.log("Esta es la operación de división 15 / 3 = ", dividir(15, 5));
 
