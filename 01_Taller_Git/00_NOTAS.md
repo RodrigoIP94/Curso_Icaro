@@ -29,8 +29,7 @@ Nos permite trabajar en equipo sobre el mismo proyecto pero en distintas partes 
 * [git checkout -- .] restaura el ultim o commit;
 * [git remote add origin "enlace"] agregar repositorio;
 * [git branch m- "rama"] nos permite ubicar lo que queremos subir en determinada rama; (chequear esto)* 
-* [rm -rf ."nombre"] desvincular branch.
-* [git remote -v] permite ver los enlaces de repositorio de donde se comparte la info;
+* [rm -rf ."nombre"] desvincular branch;
 
 -COMANDOS GIT BASH-
 
